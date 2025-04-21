@@ -1,3 +1,5 @@
+
+
 # Snake Locomotion Simulation
 
 A web-based simulation of snake movement using lateral undulation mechanics.
@@ -38,6 +40,10 @@ The simulation uses:
 - **Reset**: Generate a new snake with a random entry point
 - **Speed Slider**: Control how fast the snake moves
 - **Segments Slider**: Adjust the number of body segments (affects length and appearance)
+
+## Demo
+
+https://github.com/user-attachments/assets/0b0d9a17-dd4a-4776-bebe-b34eb40711fd
 
 ## Acknowledgments
 
